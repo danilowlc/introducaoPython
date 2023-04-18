@@ -18,3 +18,14 @@ print(f'Ola, {nome} sua idade é {idade}')
 print(34*'-')
 nova_idade = input("digite sua idade: \n")
 print(f'A idade é {nova_idade}')
+
+#Conversao de dados
+print(type(nova_idade))
+nova_idade = int(nova_idade)
+print(type(nova_idade))
+
+novo_valor = int(valor)
+print(novo_valor)
+print(type(novo_valor))
+
+
