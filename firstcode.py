@@ -28,4 +28,10 @@ novo_valor = int(valor)
 print(novo_valor)
 print(type(novo_valor))
 
-
+i = 0
+j = 0
+while i < 10 and j < 30:
+    print('Ola!')
+    print('Como vai?')
+    i += 1
+    j += 10
